@@ -417,7 +417,11 @@ Contributions are welcome.
 
 ## 📄 License
 
-Choose an appropriate open-source license for the project and add its corresponding license file to the repository.
+This project is licensed under the MIT License.
+
+You are free to use, modify, distribute, and contribute to this project for personal and commercial purposes, subject to the terms and conditions of the MIT License.
+
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
