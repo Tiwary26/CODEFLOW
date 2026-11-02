@@ -7,6 +7,10 @@ CODEFLOW is a real-time collaborative online coding platform designed to help de
 
 The platform aims to make collaborative programming easier for students, developers, coding teams, and technical interview participants.
 
+CodeFlow is a modern developer-focused platform designed to streamline coding workflows, improve productivity, and provide an organized environment for managing development activities.
+
+Built with a focus on simplicity, performance, and usability, CodeFlow aims to make everyday development tasks more efficient through a clean and intuitive interface.
+
 ---
 
 ## 📌 Table of Contents
