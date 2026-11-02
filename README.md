@@ -103,6 +103,13 @@ CODEFLOW addresses these challenges by providing a browser-based coding environm
 Authentication methods and authorization rules should be configured according to the implemented backend.
 
 ---
+## 🎯 Project Objectives
+
+- Simplify complex development workflows.
+- Improve developer productivity and efficiency.
+- Create a structured and intuitive coding environment.
+- Build a scalable and maintainable application.
+- Deliver a seamless user experience across devices.
 
 ## 🛠️ Tech Stack
 
